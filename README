@@ -4,4 +4,16 @@ The scripts use groups to give access to the accounts.
 
 This project is still under development.
 
+I used the following ...
+Tuts:
+http://css-tricks.com/674-designing-the-digg-header-how-to-download/
+http://marakana.com/blog/examples/php-implementing-secure-login-with-php-javascript-and-sessions-without-ssl.html
+
+Libs-PHP:
+http://code.google.com/p/identica-php/
+
+Libs-JS:
+http://pajhome.org.uk/crypt/md5
+http://http://jquery.com/
+
 jurkov
