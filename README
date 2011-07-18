@@ -1,0 +1,7 @@
+The identi.ca multiuser control panel is a tiny project to use identi.ca accounts with different users.
+Every user can get his own username and password.
+The scripts use groups to give access to the accounts.
+
+This project is still under development.
+
+jurkov
